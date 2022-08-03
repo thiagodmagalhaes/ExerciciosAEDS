@@ -1,1 +1,2 @@
 # ExerciciosAEDS
+ Os algoritmos acima são exercícios desenvolvidos na matéria Algoritmo e Estrutura de dados, na linguagem C, sendo uma estrutura de dados de produtos com alocação dinâmica, aritmética de ponteiros e funções para cadastrar, pesquisar, excluir , alterar e imprimir. Estas funções são adaptadas para cada tipo, sendo elas: FILA(TFila), PILHA(TPILHA) e LISTA(TListas). Também há um terceiro exercício que se encontra na pasta TAD FLP que utiliza os 3 tipos (LISTA, PILHA e FILA) juntos.  
